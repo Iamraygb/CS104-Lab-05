@@ -1,0 +1,72 @@
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: lightblue;
+
+}
+.responsive-box{
+width: 50vw;
+height: 50vw;
+background-color:lightgreen;
+}
+.padded-text{
+    padding: 20px;
+    background-color: lightyellow;
+}
+.custom-padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightcoral;
+}
+.border-box{
+    border: 2px;
+    border-style: solid;
+    background-color: lightgray ;
+    padding: 10;
+}
+.rounded-border{
+    border: 3px;
+    border-style: dotted;
+    border-radius: 15px;
+    border-color: red;
+}
+.margin-text{
+    margin: 30px;
+    background-color: lightblue;
+}
+.custom-margin{
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 40px;
+margin-right: 40px;
+background-color: lightgreen;
+}
+.inline-element{
+    display: inline;
+    background-color: lightblue;
+    padding: 10px;
+}
+.block-element{
+    display: block;
+    background-color: lightcoral;
+    text-decoration: none;
+    padding: 10px;
+}
+.inline-block-element{
+    display: inline-block;
+    background-color: lightblue;
+    padding: 10px;
+}
+.hidden-element{
+    display: none;
+}
+.invisible-element{
+    visibility: hidden;
+
+}
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
